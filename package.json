@@ -1,0 +1,20 @@
+{
+  "name": "30aug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon --exec babel-node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "this is my first app",
+  "dependencies": {
+    "@babel/core": "^7.28.3",
+    "@babel/node": "^7.28.0",
+    "@babel/preset-env": "^7.28.3",
+    "babel-plugin-add-module-exports": "^1.0.4",
+    "express": "^5.2.1"
+  }
+}
